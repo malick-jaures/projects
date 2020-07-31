@@ -9,4 +9,5 @@ This is a Master's project where I heiped my supervisor with his students. The a
 This is another Master's project I worked on with my supervisor. Given, an online retail customer's data, we want to segment them into different group: High-value customers, Mid-value customers and Low-value customers. To achieve the results we want, we used the RFM (Recency-Frequency-Monetary) technique. Then, we analysed each group to get more insights of the kind of products they purchased the most.
 
 ## [Forecasting: Ivory Cost Population Growth Rate Prediction](https://github.com/malick-jaures/training_projects/tree/master/Forecasting)
+In this project I extracted the Ivorian population growth rate from the World Bank Data using their API. Then, I used that data to forecast the growth over ten years with an error margin.
 
