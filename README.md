@@ -5,5 +5,6 @@ Each folder contains a specific project I've worked on. I tried to make the dire
 ## [African Crisis Prediction](https://github.com/malick-jaures/training_projects/tree/master/African%20Crisis%20Prediction)
 This is a Master's project where I heiped my supervisor with his students. The aim is to be able to prediction a bank crisis given the systemic crise, the exchange rate again the USD, inflation crise, and so on. We test a set of shallow machine learning algorithms and got some interesting results. 
 
-## [
+## [Customer segmentation](https://github.com/malick-jaures/training_projects/tree/master/Customer%20segmentation)
+This is another Master's project I worked on with my supervisor. Given, an online retail customer's data, we want to segment them into different group: High-value customers, Mid-value customers and Low-value customers. 
 
