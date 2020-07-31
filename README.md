@@ -11,3 +11,6 @@ This is another Master's project I worked on with my supervisor. Given, an onlin
 ## [Forecasting: Ivory Cost Population Growth Rate Prediction](https://github.com/malick-jaures/training_projects/tree/master/Forecasting)
 In this project I extracted the Ivorian population growth rate from the World Bank Data using their API. Then, I used that data to forecast the growth over ten years with an error margin.
 
+## [Gun Deaths in US 2012-2014](https://github.com/malick-jaures/training_projects/tree/master/Gun%20Deaths%20in%20US%202012-2014)
+This is a simple my first analysis I have ever done. Here, I used the following  python packages: csv (to handle csv files), re (for regular expression) and datetime (to manipulate dates).
+
