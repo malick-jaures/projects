@@ -14,5 +14,5 @@ In this project I extracted the Ivorian population growth rate from the World Ba
 ## [Gun Deaths in US 2012-2014](https://github.com/malick-jaures/training_projects/tree/master/Gun%20Deaths%20in%20US%202012-2014)
 This is a simple my first analysis I have ever done. Here, I used the following  python packages: csv (to handle csv files), re (for regular expression) and datetime (to manipulate dates).
 
-[Sales Data Visualization](https://github.com/malick-jaures/training_projects/tree/master/Sales%20Data%20Visualization)
+## [Sales Data Visualization](https://github.com/malick-jaures/training_projects/tree/master/Sales%20Data%20Visualization)
 In this project, I did some visualization of a geospatial data. We visualized the Payment type on the world map.
