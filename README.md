@@ -16,3 +16,6 @@ This is a simple my first analysis I have ever done. Here, I used the following 
 
 ## [Sales Data Visualization](https://github.com/malick-jaures/training_projects/tree/master/Sales%20Data%20Visualization)
 In this project, I did some visualization of a geospatial data. We visualized the Payment type on the world map using cartopy.
+
+## [plotly_dash_app](https://github.com/malick-jaures/training_projects/blob/master/plotly_dash_app.zip)
+Simple data visualization using Plotly (Python interactive graphing library) and Dash (Python framework for building web applications). 
