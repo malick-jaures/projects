@@ -1,4 +1,4 @@
-# trprojects
+# projects
 This repository contains some projects I have been working on.
 Each folder contains a specific project I've worked on. I tried to make the directory's name self-explanatory of its content.
 
