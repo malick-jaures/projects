@@ -1,5 +1,5 @@
-# training_projects
-This repository contains my some project I have been working on during my free time.
+# trprojects
+This repository contains some projects I have been working on.
 Each folder contains a specific project I've worked on. I tried to make the directory's name self-explanatory of its content.
 
 ## [African Crisis Prediction](https://github.com/malick-jaures/training_projects/tree/master/African%20Crisis%20Prediction)
